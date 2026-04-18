@@ -50,3 +50,5 @@ pytest>=8.2.0
 
 # If you plan to cache or store results
 redis>=5.0.4
+
+streamlit

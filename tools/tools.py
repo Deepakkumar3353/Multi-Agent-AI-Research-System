@@ -61,7 +61,7 @@ def scrape_url(url: str) -> str:
     
 
 
-print(scrape_url.invoke("https://www.geeksforgeeks.org/artificial-intelligence/what-is-generative-ai/"))
+# print(scrape_url.invoke("https://www.geeksforgeeks.org/artificial-intelligence/what-is-generative-ai/"))
 
 
 
